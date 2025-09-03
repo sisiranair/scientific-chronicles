@@ -1,8 +1,3 @@
----
-title: "Why Biological Data Feels Messier Than Your Closet (and How ETL Can Help)"
-categories: [Data, Bioinformatics, Workflows]
-tags: [ETL, GENCODE, Data Standards, Reproducibility]
----
 # Why Biological Data Feels Messier Than Your sock drawer (and How ETL Can Help)
 
 Ever found yourself with a missing sock for any pair you are trying to find? We could sit and calculate the various probabilities of how we end up with a different sock everytime, but hey - it is a Monday morning and you have to rush. Now imagine your sock drawer is full of **millions of pieces of socks**, each labeled differently, some missing the matching pair, some folded into weird shapes. Welcome to the world of biological data.  
