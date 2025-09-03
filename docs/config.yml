@@ -1,9 +1,9 @@
 title: "My Lab Blog"
 description: "Reproducible workflows for computational biology"
-theme: minima
-plugins:
+remote_theme: pages-themes/cayman@v0.2.0plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-archives
   - jekyll-paginate
+  - jekyll-remote-theme
